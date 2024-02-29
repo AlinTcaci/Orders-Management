@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="41adb059-8d80-4a3d-8650-0b0b70d2a95d" name="PT3@localhost (DDL) Mapping">
+      <data-sources db="280a21c6-a989-4fed-a34f-0bd12fdab687" ddl="f8bbc9c1-1a07-4d36-812d-02edcea563f4" />
+      <scope>
+        <node negative="1">
+          <node kind="schema" qname="PT3" />
+          <node kind="database" qname="@" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
